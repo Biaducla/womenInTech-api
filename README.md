@@ -1,6 +1,6 @@
 # Women In Tech API
 
-Projeto desenvolvido para estudo do framework NestJs que consistem em uma API para cadastro de usuários e de mulheres importantes para as áreas de STEM (ciências, tecnologia, engenharia e matemática). 
+Projeto desenvolvido para estudo do framework NestJs que consiste em uma API para cadastro de usuários e de mulheres importantes para as áreas de STEM (ciências, tecnologia, engenharia e matemática). 
 
 ## 🚀 Começando
 
